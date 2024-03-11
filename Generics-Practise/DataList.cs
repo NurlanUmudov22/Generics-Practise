@@ -28,12 +28,7 @@ namespace Generics_Practise
         }
 
 
-        public void Delete()
-        {
 
-        }
-
-       
 
     }
 }

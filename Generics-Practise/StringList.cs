@@ -8,23 +8,38 @@ namespace Generics_Practise
 {
     internal class StringList
     {
-        private string[] intArray;
+        private string[] stringArray;
 
         public StringList()
         {
-            intArray = Array.Empty<string>();               
+            stringArray = Array.Empty<string>();               
         }
 
 
         public void Add(string num)
         {
-            Array.Resize(ref intArray, intArray.Length + 1);
-            intArray[intArray.Length - 1] = num;
+            Array.Resize(ref stringArray, stringArray.Length + 1);
+            stringArray[stringArray.Length - 1] = num;
         }
 
         public string[] GetAll()
         {
-            return intArray;
+            return stringArray;
         }
+
+        //--
+        //public void Delete(string stringList)
+        //{
+            
+
+        //    for (int i = 0; i < stringArray.Length; i++)
+        //    {
+        //        if (stringArray[i] == stringList)
+        //        {
+        //            Array.Resize(ref stringArray, stringArray.Length -2);
+        //            stringArray[stringArray.Length - 1].Remove(1);
+        //        }
+        //    }
+        //}
     }
 }

@@ -12,3 +12,18 @@ C:\Users\nurlanmu\Desktop\Generics-Practise\Generics-Practise\obj\Debug\net6.0\r
 C:\Users\nurlanmu\Desktop\Generics-Practise\Generics-Practise\obj\Debug\net6.0\Generics-Practise.pdb
 C:\Users\nurlanmu\Desktop\Generics-Practise\Generics-Practise\obj\Debug\net6.0\Generics-Practise.genruntimeconfig.cache
 C:\Users\nurlanmu\Desktop\Generics-Practise\Generics-Practise\obj\Debug\net6.0\ref\Generics-Practise.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\obj\Debug\net6.0\Generics-Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\obj\Debug\net6.0\Generics-Practise.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\obj\Debug\net6.0\Generics-Practise.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\obj\Debug\net6.0\Generics-Practise.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\obj\Debug\net6.0\Generics-Practise.sourcelink.json
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\obj\Debug\net6.0\Generics-Practise.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\obj\Debug\net6.0\refint\Generics-Practise.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\obj\Debug\net6.0\Generics-Practise.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\bin\Debug\net6.0\Generics-Practise.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\bin\Debug\net6.0\Generics-Practise.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\bin\Debug\net6.0\Generics-Practise.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\bin\Debug\net6.0\Generics-Practise.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\bin\Debug\net6.0\Generics-Practise.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\obj\Debug\net6.0\Generics-Practise.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\c#\c# intro, Datatypes and more\C#-Hometask-Intro\Generics-Practise\Generics-Practise\obj\Debug\net6.0\ref\Generics-Practise.dll
